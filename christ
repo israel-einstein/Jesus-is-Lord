@@ -6,7 +6,7 @@ import winsound  # For Windows (see note below)
 # ---------------- SCREEN SETUP ----------------
 screen = turtle.Screen()
 screen.bgcolor("black")
-screen.title("Jesus is Lord ✝️")
+screen.title("Jesus is Lord ")
 screen.tracer(0)
 
 pen = turtle.Turtle()
